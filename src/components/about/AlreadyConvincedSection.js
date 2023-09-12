@@ -18,7 +18,11 @@ const AlreadyConvincedSection = () => {
       }}
     >
       <Container>
+<<<<<<< Updated upstream
         <Typography 
+=======
+      <Typography 
+>>>>>>> Stashed changes
           variant="h6" 
           component="div" 
           color="primary.main"
