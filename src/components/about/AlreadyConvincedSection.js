@@ -18,32 +18,7 @@ const AlreadyConvincedSection = () => {
       }}
     >
       <Container>
-      <Typography 
-          variant="h6" 
-          component="div" 
-          color="primary.main"
-          sx={{ fontWeight: 'bold', mb: 1 }}
-        >
-          Already convinced?
-        </Typography>
-        <Typography 
-          variant="h4" 
-          component="div"
-          sx={{ fontWeight: 700, mb: 2 }}
-        >
-          What are you waiting for?
-        </Typography>
-        <Typography 
-          variant="body1"
-          color="text.secondary"
-          sx={{ 
-            mb: 3, 
-            maxWidth: "500px",
-            mx: 'auto' 
-          }}
-        >
-          Ensure to grab your ELO token now and enjoy vast benefits that come along with being a part of us. 
-        </Typography>
+      
         <Button
           component={Link}
           to="/pre-sale"
