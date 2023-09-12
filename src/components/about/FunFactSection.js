@@ -40,6 +40,6 @@ const FunFactSection = () => {
       </Container>
     </Box>
   );
-}
+};
  
 export default FunFactSection;
