@@ -1,4 +1,3 @@
-
 # This is ELO reward system projects
 
 # `elo-project`
