@@ -18,7 +18,6 @@ const AlreadyConvincedSection = () => {
       }}
     >
       <Container>
-      
         <Button
           component={Link}
           to="/pre-sale"
